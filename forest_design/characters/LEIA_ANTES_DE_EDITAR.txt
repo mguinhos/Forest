@@ -1,0 +1,3 @@
+# Leia Antes de Editar
+
+Imagens dontuse não devem ser editada manualmente, salve a imagem como dontuse se for mesclar partes do modelo, converter contornos em caminhos e etc.

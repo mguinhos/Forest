@@ -1,0 +1,6 @@
+res://main.tscn
+res://globals.gd
+res://npc.gd
+res://BearNpc.cs
+res://nine_patch_rect.gd
+res://control.gd

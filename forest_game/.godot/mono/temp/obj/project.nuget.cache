@@ -1,0 +1,17 @@
+{
+  "version": 2,
+  "dgSpecHash": "iVEamNAmp+CVH5LGzGWjiffZyiz/fGqke2Zkc3SIkPSH9wxAYs9+/vwElA8XnNTrr4IZ7wQ+mW/FtT670OUgNA==",
+  "success": true,
+  "projectFilePath": "/home/marcel/Imagens/forest/forest_game/Forest.csproj",
+  "expectedPackageFiles": [
+    "/home/marcel/.nuget/packages/godot.sourcegenerators/4.4.1/godot.sourcegenerators.4.4.1.nupkg.sha512",
+    "/home/marcel/.nuget/packages/godotsharp/4.4.1/godotsharp.4.4.1.nupkg.sha512",
+    "/home/marcel/.nuget/packages/godotsharpeditor/4.4.1/godotsharpeditor.4.4.1.nupkg.sha512",
+    "/home/marcel/.nuget/packages/microsoft.extensions.dependencyinjection.abstractions/8.0.2/microsoft.extensions.dependencyinjection.abstractions.8.0.2.nupkg.sha512",
+    "/home/marcel/.nuget/packages/microsoft.extensions.logging.abstractions/8.0.3/microsoft.extensions.logging.abstractions.8.0.3.nupkg.sha512",
+    "/home/marcel/.nuget/packages/openai/2.3.0/openai.2.3.0.nupkg.sha512",
+    "/home/marcel/.nuget/packages/system.clientmodel/1.5.1/system.clientmodel.1.5.1.nupkg.sha512",
+    "/home/marcel/.nuget/packages/system.memory.data/8.0.1/system.memory.data.8.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
