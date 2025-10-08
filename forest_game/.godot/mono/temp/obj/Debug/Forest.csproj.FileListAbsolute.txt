@@ -20,3 +20,4 @@
 /home/marcel/Imagens/forest/forest_game/.godot/mono/temp/bin/Debug/OpenAI.dll
 /home/marcel/Imagens/forest/forest_game/.godot/mono/temp/bin/Debug/System.ClientModel.dll
 /home/marcel/Imagens/forest/forest_game/.godot/mono/temp/bin/Debug/System.Memory.Data.dll
+/home/marcel/Imagens/forest/forest_game/.godot/mono/temp/obj/Debug/Forest.sourcelink.json

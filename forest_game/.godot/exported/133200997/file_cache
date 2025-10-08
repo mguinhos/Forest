@@ -1,2 +1,4 @@
-res://Blocks.tscn::81971a343bc1d6ba68df16ce7b9efc0d::1756787884::res://.godot/exported/133200997/export-f5070dfc9a98bd88f178b6e477d815a9-Blocks.scn
-res://main.tscn::875f386c994ddc0ade2136a83c9c9906::1756787884::res://.godot/exported/133200997/export-3070c538c03ee49b7677ff960a3f5195-main.scn
+res://Scenes/Blocks.tscn::6c1333f7b4405ece4533d84a807f001d::1758417417::res://.godot/exported/133200997/export-2cc3b9d074643333cdb950a8f2be683c-Blocks.scn
+res://Scenes/Button.tscn::0c5563dda4de5b88ab033eee6dba6465::1758417483::res://.godot/exported/133200997/export-64bfa218ed7ac3ca5351fcc685beec91-Button.scn
+res://Scenes/main.tscn::5e395e7b04358ca24f4642639ec5638e::1759476330::res://.godot/exported/133200997/export-2ddd04d543d5858e7f20c9299a8b5096-main.scn
+res://Scenes/UI.tscn::b6112eb8bda4e14706b16b9f03a3eb87::1757355185::res://.godot/exported/133200997/export-4f62ab20f4ccf50badf9090e15390996-UI.scn
